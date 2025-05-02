@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **AI frameworks and deepening my Python skills.**
 
-- 📫 How to reach me **johancarlos62@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
