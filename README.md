@@ -16,7 +16,7 @@
 
 ---
 
-### Connect with me:
+### ⚡ Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/johancarloss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johancarloss" height="30" width="40" /></a>
 <a href="https://instagram.com/jjohancarlos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jjohancarlos" height="30" width="40" /></a>
