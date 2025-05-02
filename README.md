@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Johan</h1>
 <h3>CS student aiming to develop skills in artificial intelligence.</h3>
 
-- 🌱 I’m currently learning **AI frameworks and deepening my Python skills.**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
