@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Johan Carlos</h1>
+<h1>Hi 👋, I'm Johan</h1>
 <h3>CS student aiming to develop skills in artificial intelligence.</h3>
 
 - 🌱 I’m currently learning **AI frameworks and deepening my Python skills.**
