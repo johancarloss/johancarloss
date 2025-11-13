@@ -12,7 +12,7 @@ My practical experience is centered on building and designing modern back-end sy
 
 * **High-Performance APIs:** Designing and building fast, asynchronous APIs using **Python**, **FastAPI**, and **Pydantic** for robust data validation.
 
-* **Advanced Software Architecture:** Applying **Clean Architecture** and **SOLID** principles to write decoupled, maintainable, and highly testable code (Pytest).
+* **Advanced Software Architecture:** Applying **Clean Architecture** and **SOLID** principles to write decoupled, maintainable, and highly testable code.
 
 * **System Integration:** Integrating complex, real-time, third-party systems using REST APIs and managing bidirectional data flows via **Webhooks**.
 
