@@ -2,7 +2,7 @@
 
 CS student at UFPB, interested in Artificial Intelligence and its practical applications.
 
-Beyond my academic interests, I am a **hands-on back-end developer** focused on building robust, scalable, and maintainable systems. I'm driven by the challenge of engineering complex solutions and applying modern software design principles.
+Beyond my academic interests, I am a **hands-on back-end developer** focused on building robust, scalable, and maintainable systems. I'm driven by the challenge of engineering complex solutions and always looking for opportunities to learn and improve.
 
 ---
 
@@ -31,6 +31,7 @@ My practical experience is centered on building and designing modern back-end sy
 **Tools & Platforms:**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
