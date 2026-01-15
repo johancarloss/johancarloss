@@ -16,6 +16,8 @@ My practical experience is centered on building and designing modern back-end sy
 
 * **System Integration:** Integrating complex, real-time, third-party systems using REST APIs and managing bidirectional data flows via **Webhooks**.
 
+* **Intelligent AI Agents:** Currently learning and applying the creation of autonomous agents using **LangGraph**, focusing on orchestration of LLMs and agent-based AI solutions.
+
 ---
 
 ### 🛠️ Languages and Tools
@@ -27,6 +29,7 @@ My practical experience is centered on building and designing modern back-end sy
 **Frameworks & Libraries:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B6CFF?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjNEI2Q0ZGIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCBoZWlnaHQ9IjIwIiB3aWR0aD0iMjAiIHJ4PSI0Ii8+PC9zdmc+)
 
 **Tools & Platforms:**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
