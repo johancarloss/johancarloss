@@ -1,43 +1,75 @@
 # Hi 👋, I'm Johan Carlos
 
-CS student at UFPB, interested in Artificial Intelligence and its practical applications.
+CS student at UFPB, focused on **AI-powered backend systems** and their real-world applications.
 
-Beyond my academic interests, I am a **hands-on back-end developer** focused on building robust, scalable, and maintainable systems. I'm driven by the challenge of engineering complex solutions and always looking for opportunities to learn and improve.
-
----
-
-### 💻 My Core Skills
-
-My practical experience is centered on building and designing modern back-end systems.
-
-* **High-Performance APIs:** Designing and building fast, asynchronous APIs using **Python**, **FastAPI**, and **Pydantic** for robust data validation.
-
-* **Advanced Software Architecture:** Applying **Clean Architecture** and **SOLID** principles to write decoupled, maintainable, and highly testable code.
-
-* **System Integration:** Integrating complex, real-time, third-party systems using REST APIs and managing bidirectional data flows via **Webhooks**.
-
-* **Intelligent AI Agents:** Currently learning and applying the creation of autonomous agents using **LangGraph**, focusing on orchestration of LLMs and agent-based AI solutions.
+I'm a **hands-on back-end developer** who builds production-grade AI agents, integration middleware, and scalable APIs. I design systems with Clean Architecture, ship with Docker and CI/CD, and obsess over code quality and observability.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🔧 What I Build
+
+**AI Agents & LLM Orchestration**
+Autonomous agents with complex decision-making using **LangGraph** and **OpenAI function calling**. Multi-step negotiation flows, tool use with bypass detection, TTS integration (ElevenLabs), and smart follow-up systems. Experience with prompt engineering across 3-layer architectures (system → tool description → result instructions).
+
+**Integration Middleware**
+Bidirectional real-time bridges between platforms (WhatsApp ↔ Chatwoot) handling message routing, status tracking, typing indicators, and media processing. Built with **webhook-driven architecture**, message deduplication, and automatic health checks with alerting.
+
+**High-Performance Async APIs**
+Fast, well-structured APIs using **FastAPI** with async/await end-to-end — from route handlers through SQLAlchemy repositories to asyncpg. JWT auth, rate limiting, multi-tenant isolation, and proper error handling.
+
+**Full-Stack Dashboards**
+Admin panels and analytics dashboards with **React + TypeScript**, TanStack Query, Tailwind CSS, and Recharts. Protected routes, lazy loading, and real-time metrics.
+
+---
+
+### 🏗️ Architecture & Patterns
+
+I apply these consistently across projects:
+
+- **Clean Architecture** — Domain entities, use cases, repository interfaces, and infrastructure layers fully separated
+- **SOLID & DRY** — Single responsibility at every level, from API routes to database queries
+- **Multi-Tenant Design** — Tenant isolation via JWT-embedded IDs and query-level filtering
+- **Async-First** — SQLAlchemy 2.0 + asyncpg, no blocking I/O in critical paths
+- **Observability** — Structured JSON logging, Prometheus metrics, correlation IDs, LangSmith tracing
+- **Infrastructure as Code** — Docker multi-stage builds, Alembic migrations, N8N workflows versioned in git
+
+---
+
+### 🛠️ Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white)
 
-**Frameworks & Libraries:**
+**Backend:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B6CFF?logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjNEI2Q0ZGIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiIHdpZHRoPSIyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCBoZWlnaHQ9IjIwIiB3aWR0aD0iMjAiIHJ4PSI0Ii8+PC9zdmc+)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
+
+**AI & LLM:**
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 
-**Tools & Platforms:**
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+**Frontend:**
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+**Data & Infra:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+**Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?logo=anthropic&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white)
 
 ---
 
