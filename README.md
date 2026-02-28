@@ -9,16 +9,16 @@ I'm a **hands-on back-end developer** who builds production-grade AI agents, int
 ### 🔧 What I Build
 
 **AI Agents & LLM Orchestration**
-Autonomous agents with complex decision-making using **LangGraph** and **OpenAI function calling**. Multi-step negotiation flows, tool use with bypass detection, TTS integration (ElevenLabs), and smart follow-up systems. Experience with prompt engineering across 3-layer architectures (system → tool description → result instructions).
+- Autonomous agents with complex decision-making using **LangGraph** and **OpenAI function calling**. Multi-step negotiation flows, tool use with bypass detection, TTS integration (ElevenLabs), and smart follow-up systems. Experience with prompt engineering across 3-layer architectures (system → tool description → result instructions).
 
 **Integration Middleware**
-Bidirectional real-time bridges between platforms (WhatsApp ↔ Chatwoot) handling message routing, status tracking, typing indicators, and media processing. Built with **webhook-driven architecture**, message deduplication, and automatic health checks with alerting.
+- Bidirectional real-time bridges between platforms (WhatsApp ↔ Chatwoot) handling message routing, status tracking, typing indicators, and media processing. Built with **webhook-driven architecture**, message deduplication, and automatic health checks with alerting.
 
 **High-Performance Async APIs**
-Fast, well-structured APIs using **FastAPI** with async/await end-to-end — from route handlers through SQLAlchemy repositories to asyncpg. JWT auth, rate limiting, multi-tenant isolation, and proper error handling.
+- Fast, well-structured APIs using **FastAPI** with async/await end-to-end — from route handlers through SQLAlchemy repositories to asyncpg. JWT auth, rate limiting, multi-tenant isolation, and proper error handling.
 
 **Full-Stack Dashboards**
-Admin panels and analytics dashboards with **React + TypeScript**, TanStack Query, Tailwind CSS, and Recharts. Protected routes, lazy loading, and real-time metrics.
+- Admin panels and analytics dashboards with **React + TypeScript**, TanStack Query, Tailwind CSS, and Recharts. Protected routes, lazy loading, and real-time metrics.
 
 ---
 
