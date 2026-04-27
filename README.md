@@ -1,41 +1,22 @@
-# Hi 👋, I'm Johan Carlos
+# Johan Carlos
 
-CS student at UFPB, focused on **AI-powered backend systems** and their real-world applications.
-
-I'm a **hands-on back-end developer** who builds production-grade AI agents, integration middleware, and scalable APIs. I design systems with Clean Architecture, ship with Docker and CI/CD, and obsess over code quality and observability.
+CS student at UFPB. I build AI-powered backend systems in production.
 
 ---
 
-### 🔧 What I Build
+### What I'm building
 
-**AI Agents & LLM Orchestration**
-- Autonomous agents with complex decision-making using **LangGraph** and **OpenAI function calling**. Multi-step negotiation flows, tool use with bypass detection, TTS integration (ElevenLabs), and smart follow-up systems. Experience with prompt engineering across 3-layer architectures (system → tool description → result instructions).
+**Integration Middleware** — Multi-tenant bridge between WhatsApp Business and Chatwoot. Redis Streams pipeline with fault-tolerant message processing and zero message loss. Python, FastAPI, Clean Architecture.
 
-**Integration Middleware**
-- Bidirectional real-time bridges between platforms (WhatsApp ↔ Chatwoot) handling message routing, status tracking, typing indicators, and media processing. Built with **webhook-driven architecture**, message deduplication, and automatic health checks with alerting.
+**Real Estate AI Agent** — Autonomous agent for lead qualification via WhatsApp, built from scratch without frameworks. Custom agent loop with 10 function-calling tools, bidirectional audio (Whisper STT + ElevenLabs TTS), Row-Level Security, and per-tenant billing. Full technical ownership.
 
-**High-Performance Async APIs**
-- Fast, well-structured APIs using **FastAPI** with async/await end-to-end — from route handlers through SQLAlchemy repositories to asyncpg. JWT auth, rate limiting, multi-tenant isolation, and proper error handling.
+### What I'm learning
 
-**Full-Stack Dashboards**
-- Admin panels and analytics dashboards with **React + TypeScript**, TanStack Query, Tailwind CSS, and Recharts. Protected routes, lazy loading, and real-time metrics.
+Currently exploring **cybersecurity** and **bug bounty hunting** — vulnerability research, code auditing, and responsible disclosure on platforms like HackerOne.
 
 ---
 
-### 🏗️ Architecture & Patterns
-
-I apply these consistently across projects:
-
-- **Clean Architecture** — Domain entities, use cases, repository interfaces, and infrastructure layers fully separated
-- **SOLID & DRY** — Single responsibility at every level, from API routes to database queries
-- **Multi-Tenant Design** — Tenant isolation via JWT-embedded IDs and query-level filtering
-- **Async-First** — SQLAlchemy 2.0 + asyncpg, no blocking I/O in critical paths
-- **Observability** — Structured JSON logging, Prometheus metrics, correlation IDs, LangSmith tracing
-- **Infrastructure as Code** — Docker multi-stage builds, Alembic migrations, N8N workflows versioned in git
-
----
-
-### 🛠️ Tech Stack
+### Tech stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -47,23 +28,15 @@ I apply these consistently across projects:
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
 
-**AI & LLM:**
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+**AI/LLM:**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 
-**Frontend:**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-
-**Data & Infra:**
+**Infra:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 **Tools:**
@@ -72,8 +45,6 @@ I apply these consistently across projects:
 ![uv](https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white)
 
 ---
-
-### ⚡ Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johancarloss/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/johancarloss/)
