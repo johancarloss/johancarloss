@@ -1,6 +1,6 @@
 # Johan Carlos
 
-Software Engineering Intern at [GeniAI](https://geniai.com.br). CS student at UFPB.
+Software Engineering Intern at GeniAI. CS student at UFPB.
 
 ---
 
