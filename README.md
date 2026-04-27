@@ -1,6 +1,6 @@
 # Johan Carlos
 
-CS student at UFPB. I build AI-powered backend systems in production.
+Software Engineering Intern at [GeniAI](https://geniai.com.br). CS student at UFPB.
 
 ---
 
