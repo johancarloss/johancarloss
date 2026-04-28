@@ -48,3 +48,4 @@ Currently exploring **cybersecurity** and **bug bounty hunting** — vulnerabili
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johancarloss/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/johancarloss/)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Profile-494649?logo=hackerone&logoColor=white)](https://hackerone.com/SEU_USUARIO)
