@@ -13,6 +13,7 @@ Software Engineering Intern at GeniAI. CS student at UFPB.
 ### What I'm learning
 
 Currently exploring **cybersecurity** and **bug bounty hunting** — vulnerability research, code auditing, and responsible disclosure on platforms like HackerOne.
+I'm also learning Rust and starting to use it in personal projects, with the goal of applying it in a professional setting in the future.
 
 ---
 
@@ -22,6 +23,7 @@ Currently exploring **cybersecurity** and **bug bounty hunting** — vulnerabili
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 **Backend:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
