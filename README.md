@@ -13,6 +13,7 @@ Software Engineering Intern at GeniAI. CS student at UFPB.
 ### What I'm learning
 
 Currently exploring **cybersecurity** and **bug bounty hunting** — vulnerability research, code auditing, and responsible disclosure on platforms like HackerOne.
+
 I'm also learning Rust and starting to use it in personal projects, with the goal of applying it in a professional setting in the future.
 
 ---
