@@ -1,6 +1,6 @@
 # Johan Carlos
 
-Software Engineering Intern at GeniAI. CS student at UFPB.
+Ai & Fullstack Developer at GeniAI. CS student at UFPB.
 
 ---
 
