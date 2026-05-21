@@ -1,6 +1,6 @@
 # Johan Carlos
 
-Ai & Fullstack Developer at GeniAI. CS student at UFPB.
+AI & Fullstack Developer at GeniAI. CS student at UFPB.
 
 ---
 
