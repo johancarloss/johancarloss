@@ -2,14 +2,6 @@
 
 AI & Fullstack Developer at GeniAI. CS student at UFPB.
 
----
-
-### What I'm building
-
-**Integration Middleware** — Multi-tenant bridge between WhatsApp Business and Chatwoot. Redis Streams pipeline with fault-tolerant message processing and zero message loss. Python, FastAPI, Clean Architecture.
-
-**Real Estate AI Agent** — Autonomous agent for lead qualification via WhatsApp, built from scratch without frameworks. Custom agent loop with 10 function-calling tools, bidirectional audio (Whisper STT + ElevenLabs TTS), Row-Level Security, and per-tenant billing. Full technical ownership.
-
 ### What I'm learning
 
 Currently exploring **cybersecurity** and **bug bounty hunting** — vulnerability research, code auditing, and responsible disclosure on platforms like HackerOne.
