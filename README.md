@@ -6,7 +6,7 @@ AI & Fullstack Developer at GeniAI. CS student at UFPB.
 
 Currently exploring **cybersecurity** and **bug bounty hunting** — vulnerability research, code auditing, and responsible disclosure on platforms like HackerOne.
 
-I'm also learning Rust and starting to use it in personal projects, with the goal of applying it in a professional setting in the future.
+I'm learning Rust and actively applying it in personal and professional projects, aiming to leverage it in increasingly complex and impactful work.
 
 ---
 
@@ -15,7 +15,6 @@ I'm also learning Rust and starting to use it in personal projects, with the goa
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?logo=postgresql&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 **Backend:**
