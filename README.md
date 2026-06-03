@@ -23,10 +23,6 @@ I'm also learning Rust and starting to use it in personal projects, with the goa
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
 
-**AI/LLM:**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
-
 **Infra:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white)
@@ -37,6 +33,7 @@ I'm also learning Rust and starting to use it in personal projects, with the goa
 **Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white)
 
 ---
